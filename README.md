@@ -1,3 +1,2 @@
 # permablog-template
-# permablog-template
-# permablog-template
+pull from arweave into yr blog
