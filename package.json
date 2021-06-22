@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ardb": "^1.0.8",
+    "arweave": "^1.10.14"
+  },
+  "type":"module"
+}
